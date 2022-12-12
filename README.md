@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Pocket calculator in C++ <br>
-👯 I’m looking to collaborate on<br>
+👯 I’m looking to collaborate on almost everything<br>
 🤝 I’m looking for help with C++, C#, Python<br>
 🌱 I’m currently learning IT specialist<br>
 💬 Ask me about - Leo, 19 years old, live somewhere near Hamburg.<br>

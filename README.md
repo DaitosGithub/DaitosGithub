@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pocket calculator in C++ <br>
+🔭 I’m currently working on PiPaPong pong but pieperjugend <br>
 👯 I’m looking to collaborate on almost everything<br>
 🤝 I’m looking for help with C++, C#, Python<br>
 🌱 I’m currently learning IT specialist<br>

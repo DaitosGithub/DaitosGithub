@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on PiPaPong pong but pieperjugend <br>
 👯 I’m looking to collaborate on almost everything<br>
-🤝 I’m looking for help with C++, C#, Python<br>
+🤝 I’m looking for help with C++/SFML<br>
 🌱 I’m currently learning IT specialist<br>
 💬 Ask me about - Leo, 19 years old, live somewhere near Hamburg.<br>
 ⚡ Fun fact "I am alergic to dust and i can't breathe properly"
